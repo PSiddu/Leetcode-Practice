@@ -5,4 +5,6 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Palindrome Number: https://leetcode.com/problems/palindrome-number/
 
+(Easy) Reverse Integer: https://leetcode.com/problems/reverse-integer/
+
 (Medium) Roman Numerals: https://leetcode.com/problems/integer-to-roman/
