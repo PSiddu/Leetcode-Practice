@@ -7,4 +7,6 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Reverse Integer: https://leetcode.com/problems/reverse-integer/
 
+(Easy) Sqrt(x): https://leetcode.com/problems/sqrtx/
+
 (Medium) Roman Numerals: https://leetcode.com/problems/integer-to-roman/
