@@ -10,3 +10,5 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 (Easy) Sqrt(x): https://leetcode.com/problems/sqrtx/
 
 (Medium) Roman Numerals: https://leetcode.com/problems/integer-to-roman/
+
+(Medium) Pow(x, n): https://leetcode.com/problems/powx-n/
