@@ -11,6 +11,8 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Reversed Linked List: https://leetcode.com/problems/reverse-linked-list/
 
+(Easy) Roman to Integer: https://leetcode.com/problems/roman-to-integer/
+
 (Medium) Roman Numerals: https://leetcode.com/problems/integer-to-roman/
 
 (Medium) Pow(x, n): https://leetcode.com/problems/powx-n/
