@@ -15,6 +15,8 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
+(Easy) Minimum Depth of Binary Tree: https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
 (Easy) Roman to Integer: https://leetcode.com/problems/roman-to-integer/
 
 (Medium) Roman Numerals: https://leetcode.com/problems/integer-to-roman/
