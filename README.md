@@ -13,6 +13,8 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Matrix Diagonal Sum: https://leetcode.com/problems/matrix-diagonal-sum/
 
+(Easy) Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
 (Easy) Roman to Integer: https://leetcode.com/problems/roman-to-integer/
 
 (Medium) Roman Numerals: https://leetcode.com/problems/integer-to-roman/
