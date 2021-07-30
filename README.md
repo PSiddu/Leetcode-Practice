@@ -9,11 +9,13 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Sqrt(x): https://leetcode.com/problems/sqrtx/
 
+(Easy) isSubsequence: https://leetcode.com/problems/is-subsequence/
+
 (Easy) Reversed Linked List: https://leetcode.com/problems/reverse-linked-list/
 
 (Easy) Matrix Diagonal Sum: https://leetcode.com/problems/matrix-diagonal-sum/
 
-(Easy> Reverse String: https://leetcode.com/problems/reverse-string/
+(Easy) Reverse String: https://leetcode.com/problems/reverse-string/
 
 (Easy) Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
