@@ -9,6 +9,8 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Sqrt(x): https://leetcode.com/problems/sqrtx/
 
+(Easy) Fibonacci Number: https://leetcode.com/problems/fibonacci-number/
+
 (Easy) isSubsequence: https://leetcode.com/problems/is-subsequence/
 
 (Easy) Reversed Linked List: https://leetcode.com/problems/reverse-linked-list/
