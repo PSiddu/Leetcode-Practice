@@ -13,6 +13,8 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Detect Capital: https://leetcode.com/problems/detect-capital/
 
+(Easy) Student Attendance Record I: https://leetcode.com/problems/student-attendance-record-i/
+
 (Easy) isSubsequence: https://leetcode.com/problems/is-subsequence/
 
 (Easy) Reversed Linked List: https://leetcode.com/problems/reverse-linked-list/
