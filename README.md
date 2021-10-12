@@ -7,6 +7,8 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Final Value of Variable After Operations: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 
+(Easy) Defanging an IP Address: https://leetcode.com/problems/defanging-an-ip-address/
+
 (Easy) Palindrome Number: https://leetcode.com/problems/palindrome-number/
 
 (Easy) Reverse Integer: https://leetcode.com/problems/reverse-integer/
