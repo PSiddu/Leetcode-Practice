@@ -3,6 +3,8 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Two Sum: https://leetcode.com/problems/two-sum/
 
+(Easy) Concatenation of Array: https://leetcode.com/problems/concatenation-of-array/
+
 (Easy) Palindrome Number: https://leetcode.com/problems/palindrome-number/
 
 (Easy) Reverse Integer: https://leetcode.com/problems/reverse-integer/
