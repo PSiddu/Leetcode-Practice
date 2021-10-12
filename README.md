@@ -5,7 +5,7 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Concatenation of Array: https://leetcode.com/problems/concatenation-of-array/
 
-(Easy) Final Value of Variable After Performing Operations: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+(Easy) Final Value of Variable After Operations: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 
 (Easy) Palindrome Number: https://leetcode.com/problems/palindrome-number/
 
