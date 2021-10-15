@@ -9,6 +9,8 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Defanging an IP Address: https://leetcode.com/problems/defanging-an-ip-address/
 
+(Easy) Richest Customer Wealth: https://leetcode.com/problems/richest-customer-wealth/
+
 (Easy) Palindrome Number: https://leetcode.com/problems/palindrome-number/
 
 (Easy) Reverse Integer: https://leetcode.com/problems/reverse-integer/
