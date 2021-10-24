@@ -42,3 +42,5 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 (Medium) Pow(x, n): https://leetcode.com/problems/powx-n/
 
 (Medium) Partition Into Min Deci-Binary Nums: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+
+(Medium) Encode and Decode TinyURL: https://leetcode.com/problems/encode-and-decode-tinyurl/
