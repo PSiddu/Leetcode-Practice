@@ -11,6 +11,8 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Richest Customer Wealth: https://leetcode.com/problems/richest-customer-wealth/
 
+(Easy) Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
 (Easy) Palindrome Number: https://leetcode.com/problems/palindrome-number/
 
 (Easy) Reverse Integer: https://leetcode.com/problems/reverse-integer/
