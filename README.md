@@ -9,7 +9,7 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Final Value of Variable After Operations: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 
-(Easy) https://leetcode.com/problems/height-checker/
+(Easy) Height Checker: https://leetcode.com/problems/height-checker/
 
 (Easy) Defanging an IP Address: https://leetcode.com/problems/defanging-an-ip-address/
 
