@@ -5,6 +5,8 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Concatenation of Array: https://leetcode.com/problems/concatenation-of-array/
 
+(Easy) Minimum Absolute Difference: https://leetcode.com/problems/minimum-absolute-difference/
+
 (Easy) Final Value of Variable After Operations: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 
 (Easy) Defanging an IP Address: https://leetcode.com/problems/defanging-an-ip-address/
