@@ -11,6 +11,8 @@ Solutions to Leetcode Problems I have completed. (Updating as I complete problem
 
 (Easy) Height Checker: https://leetcode.com/problems/height-checker/
 
+(Easy) Binary Number with Alternating Bits: https://leetcode.com/problems/binary-number-with-alternating-bits/
+
 (Easy) Defanging an IP Address: https://leetcode.com/problems/defanging-an-ip-address/
 
 (Easy) Richest Customer Wealth: https://leetcode.com/problems/richest-customer-wealth/
